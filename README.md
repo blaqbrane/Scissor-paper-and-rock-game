@@ -1,6 +1,5 @@
-# Scissor-paper-and-rock-game
-Task
-A simple python game where the computer picks at ramdon either paper,rock or scissor
+# Scissor-paper-and-rock
+A simple python game where the computer picks at random either paper,rock or scissor
 If the players picks same thing with the computer it's a tie
 If the player pick rock and the computer picks paper you lose
 If the player pick rock and the computer picks scisssors you win
